@@ -1,9 +1,6 @@
 # 📡 networkAdmin_with_Dialog
 
-![image](https://github.com/user-attachments/assets/a2f36c3d-3392-4862-a156-11f543466073)
-
-![image](https://github.com/user-attachments/assets/9810a404-3e60-465e-82fe-3274c6ad4514)
-
+![image](https://github.com/user-attachments/assets/a2f36c3d-3392-4862-a156-11f543466073)![image](https://github.com/user-attachments/assets/9810a404-3e60-465e-82fe-3274c6ad4514)
 
 A simple Bash-based network administration tool with a user-friendly interface powered by **dialog**. This script provides interactive menu options for configuring network services like:
 
